@@ -28,5 +28,3 @@ target/
 
 *.properties
 *.yml
-
-api_html/
